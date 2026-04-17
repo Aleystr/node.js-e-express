@@ -28,9 +28,11 @@ npm-debug.log*
 
 # Aulas em desenvolvimento
 
-Aula08/
-Aula09/
+
+
 Aula10/
+
+Tests/src/db.js
 dicas.md
 
  
@@ -44,5 +46,6 @@ pool.md
 pool.md.backup
 retomada-conversa.md
 teste-de-memoria.md
+
 
 
